@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý\frmChinhSuaPhieuNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý\frmChinhSuaPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý\frmQuanLyKhachHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý\frmQuanLyLoaiHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý\frmQuanLyNhaCungCap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý\frmQuanLyNhomKhachHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý\frmQuanLyPhieuNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý\frmQuanLyPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Quản lý\frmQuanLySanPham.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmChiTietPhieuNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmChiTietPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmDanhSachKhachHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmDanhSachLoaiHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmDanhSachNhaCungCap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmDanhSachNhanVien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmDanhSachPhieuNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmDanhSachPhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmDanhSachSanPham.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmDanhSachVaiTro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmManHinhChinh.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmXemChiTietQuyenTruyCap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thông tin\frmXemChiTietSanPham.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thống kê\frmThongKeNhapHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thống kê\frmThongKePhieuNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thống kê\frmThongKePhieuXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thống kê\frmThongKeSanPhamNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thống kê\frmThongKeSanPhamXuat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thống kê\frmThongKeSoLuong.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Thống kê\frmThongKeXuatHang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tài khoản\frmDangNhap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tài khoản\frmNguoiDung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tài khoản\frmQuyen_VaiTro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tài khoản\frmThietLapNguoiDung.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Tài khoản\frmThietLapQuyenTruyCap.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
